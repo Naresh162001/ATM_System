@@ -1,7 +1,0 @@
-Acc No     Account Holder Name      Pin No        Account Balance
-101        Harish                   8374          25000
-102        Raj                      9485          60000
-103        Naresh                   8496          55500
-104        Karthi                   9488          15000
-105        Balaji                   8293          67000
-106		     Ragaven		              7465		      60000.0
